@@ -1,5 +1,7 @@
 :root {
+    --pp-bg-color: #000000;
     --ppl-title-color: #000000;
+    --txt-color: #ffffff;
     --sub-color: #daa520;
 }
 
@@ -9,8 +11,10 @@ body {
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal; 
-    color: var(--ppl-title-color);
+    color: var(--txt-color);
+    background-color: var(--pp-bg-color);
     text-align: center;
+    text-justify: inter-word;
     margin-top: 10px;
   
 }
@@ -20,6 +24,8 @@ img {
 }
 
 p {
-    margin-left: 500px;
-    margin-right: 500px;
+    font-weight: 100;
+    font-style: normal;
+    margin-left: 530px;
+    margin-right: 530px;
 }
