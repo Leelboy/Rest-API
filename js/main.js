@@ -1,6 +1,8 @@
 console.log('Rest-API');
 console.log('NASA');
 console.log('The National Aeronautics and Space Administration');
+console.log('NASA Astronomy Picture of the Day');
+console.log('Messier 66 Close up');
 
 /* my NASA API */
 /* brZ9aP9Dv14pw4gpDm58tANrQ5Tq7gepOG6pQ1xK */
