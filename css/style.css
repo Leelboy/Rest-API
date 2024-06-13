@@ -1,5 +1,5 @@
 
-.body {
-    display: flex;
-    align-items: center;
+.body h1 {
+    text-align: center;
+    margin-top: 10px;
 }
