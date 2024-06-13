@@ -1,16 +1,25 @@
 :root {
-    --pal-bg-color: #000000;
-    --title-color: #000000;
+    --ppl-title-color: #000000;
     --sub-color: #daa520;
 }
 
 
 body {
-    color: var(--title-color);
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal; 
+    color: var(--ppl-title-color);
     text-align: center;
     margin-top: 10px;
+  
 }
 
 img {
-    border-radius: 80%;
+    border-radius: 10px;
+}
+
+p {
+    margin-left: 500px;
+    margin-right: 500px;
 }
