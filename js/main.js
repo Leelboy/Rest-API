@@ -5,7 +5,7 @@ console.log('The National Aeronautics and Space Administration');
 /* get the pictures */
 var req = new XMLHttpRequest();
 var url = "https://api.nasa.gov/EPIC/api/natural/date/2016-07-05?api_key=";
-var api_key = "5B6oJsSCQyekXZvNOKpsUhRPl1e7FHqjIAyHpybk";
+var api_key = "brZ9aP9Dv14pw4gpDm58tANrQ5Tq7gepOG6pQ1xK";
 var img_url =  "https://epic.gsfc.nasa.gov/archive/natural/2016/07/05/png/";
 var img_type = ".png";
 
