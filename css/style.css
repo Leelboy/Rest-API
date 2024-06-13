@@ -1,5 +1,16 @@
+:root {
+    --pal-bg-color: #000000;
+    --title-color: #000000;
+    --sub-color: #daa520;
+}
 
-.body h1 {
+
+body {
+    color: var(--title-color);
     text-align: center;
     margin-top: 10px;
+}
+
+img {
+    border-radius: 80%;
 }
